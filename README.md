@@ -1,6 +1,6 @@
 ### Me presento 👋
 
-Mi nombre es **Gabriel**, soy estudiante del área multimedia y actualmente me encuentro en proceso de aprendizaje para convertirme en desarrollador de software profesional.
+Mi nombre es **Gabriel** y soy estudiante del área multimedia; actualmente me encuentro en proceso de aprendizaje para convertirme en desarrollador de software profesional.
 
 <!--
 **Gabriel-Sanabria/Gabriel-Sanabria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
