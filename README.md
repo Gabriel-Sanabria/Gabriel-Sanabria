@@ -2,7 +2,7 @@
 
 Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animación digital; actualmente me encuentro en proceso de aprendizaje para convertirme en desarrollador de software profesional.
 
-### Algunos de los lenguajes y tecnologías que he utilizado son:
+### Algunas de las tecnologías y lenguajes que he utilizado son:
 
 <img align="left" src="https://img.shields.io/badge/-.NET-008CBA?style=flat-square&logo=.net&logoColor=white" alt=".NET">
 
@@ -12,7 +12,7 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   
 <img align="left" src="https://img.shields.io/badge/-OpenGL-339933?style=flat-square&logo=OpenGL&logoColor=white" alt="OpenGL">
 
-<img align="left" src="https://img.shields.io/badge/-WinAPI-0052CC?style=flat-square&logo=windows&logoColor=white" alt="WinAPI/Win32">
+<img align="left" src="https://img.shields.io/badge/-WinAPI-0052CC?style=flat-square&logo=windows&logoColor=white" alt="WinAPI">
 
 <img align="left" src="https://img.shields.io/badge/-C%23-008B8B?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
 
