@@ -1,4 +1,4 @@
-# Me presento 👋
+# Me presento 🤝
 
 Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animación digital; actualmente me encuentro en proceso de aprendizaje para convertirme en desarrollador de software profesional.
 
