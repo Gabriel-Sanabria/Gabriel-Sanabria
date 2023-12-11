@@ -32,6 +32,8 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 
 <img align="left" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
 
+<img align="left" src="https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot Engine">
+
 <br />
 
 ### Los proyectos que he desarrollado incluyen:
