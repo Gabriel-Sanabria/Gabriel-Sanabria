@@ -26,7 +26,7 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 
 <img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=555555" alt="JavaScript">
 
-<img align="left" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+<img align="left" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"&labelColor=555555" alt="Java">
 
 <br />
 
