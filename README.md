@@ -6,7 +6,6 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 
 <div name="Insignias" style="display: flex; flex-wrap: wrap; max-width: 600px;">
 
-  <br />
   <img align="left" src="https://img.shields.io/badge/-.NET-800080?style=flat-square&logo=.net&logoColor=white" alt=".NET">
   
   <img align="left" src="https://img.shields.io/badge/-Xamarin-54C1B8?style=flat-square&logo=xamarin&logoColor=white" alt="Xamarin">
