@@ -34,7 +34,7 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 
 <img align="left" src="https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot Engine">
 
-<img align="left" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+<img align="left" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL">
 
 <br />
 
