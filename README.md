@@ -41,7 +41,7 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   <img align="left" src="https://img.shields.io/badge/-DirectX-0078D6?style=flat-square&logo=microsoft&logoColor=white" alt="DirectX">
 </div>
 
-<br />
+<br /><br />
 
 ### Los proyectos que he desarrollado incluyen:
 - 🖥️ Aplicaciones de escritorio
