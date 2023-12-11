@@ -5,7 +5,7 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 ### Las tecnologías y lenguajes que he utilizado son:
 
 <div name="Insignias" style="display: flex; flex-wrap: wrap; max-width: 600px;">
-  <img align="left" src="https://img.shields.io/badge/-.NET-008CBA?style=flat-square&logo=.net&logoColor=white" alt=".NET" style="margin-bottom: 10px;">
+  <img align="left" src="https://img.shields.io/badge/-.NET-008CBA?style=flat-square&logo=.net&logoColor=white" alt=".NET">
   
   <img align="left" src="https://img.shields.io/badge/-Xamarin-54C1B8?style=flat-square&logo=xamarin&logoColor=white" alt="Xamarin">
   
