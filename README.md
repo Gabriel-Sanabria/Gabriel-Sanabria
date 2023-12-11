@@ -4,7 +4,7 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 
 ### Las tecnologías y lenguajes que he utilizado son:
 
-<div name="InsigniasPrimeraFila" style="display: flex; flex-wrap: wrap; max-width: 600px; margin-bottom: 10px;">
+<div name="Insignias" style="display: flex; flex-wrap: wrap; max-width: 600px; margin-bottom: 10px;">
   <img align="left" src="https://img.shields.io/badge/-.NET-008CBA?style=flat-square&logo=.net&logoColor=white" alt=".NET">
   
   <img align="left" src="https://img.shields.io/badge/-Xamarin-54C1B8?style=flat-square&logo=xamarin&logoColor=white" alt="Xamarin">
@@ -26,11 +26,7 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   <img align="left" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   
   <img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=%232c3e50" alt="JavaScript">
-</div>
 
-<br /> <br />
-
-<div name="InsigniasSegundaFila">
   <img align="left" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
   
   <img align="left" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
