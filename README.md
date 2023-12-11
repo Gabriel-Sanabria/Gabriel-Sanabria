@@ -28,6 +28,10 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 
 <img align="left" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&logoWidth=20" alt="Java">
 
+<img align="left" src="https://img.shields.io/badge/-DirectX-0078D6?style=flat-square&logo=microsoft&logoColor=white" alt="DirectX">
+
+<img align="left" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
+
 <br />
 
 ### Los proyectos que he desarrollado incluyen:
