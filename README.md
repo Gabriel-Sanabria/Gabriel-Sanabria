@@ -21,6 +21,8 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   <img align="left" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c-plus-plus&logoColor=white" alt="C++">
   
   <img align="left" src="https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=java&logoColor=white&logoWidth=20" alt="Java">
+
+  <img align="left" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   
   <img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
     
@@ -39,12 +41,8 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   <img align="left" src="https://img.shields.io/badge/-OpenGL-339933?style=flat-square&logo=OpenGL&logoColor=white" alt="OpenGL">
   
   <img align="left" src="https://img.shields.io/badge/-DirectX-0078D6?style=flat-square&logo=microsoft&logoColor=white" alt="DirectX">
-
-  <br>
   
   <img align="left" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
-  
-  <img align="left" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 
 </div>
 
