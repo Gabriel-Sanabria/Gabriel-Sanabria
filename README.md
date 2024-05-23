@@ -39,9 +39,14 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   <img align="left" src="https://img.shields.io/badge/-OpenGL-339933?style=flat-square&logo=OpenGL&logoColor=white" alt="OpenGL">
   
   <img align="left" src="https://img.shields.io/badge/-DirectX-0078D6?style=flat-square&logo=microsoft&logoColor=white" alt="DirectX">
-</div>
 
-<br /><br />
+  <br>
+  
+  <img align="left" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
+  
+  <img align="left" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+
+</div>
 
 ### Los proyectos que he desarrollado incluyen:
 - 🖥️ Aplicaciones de escritorio
