@@ -56,13 +56,8 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 
 <br>
 
-### Los proyectos que he desarrollado incluyen:
+### He desarrollado proyectos como:
 - 🖥️ Aplicaciones de escritorio
 - 📱 Aplicaciones móviles
 - 🌐 Sitios web
 - 🎮 Videojuegos
-
-### Tengo interés por aprender más sobre distintas áreas de la tecnología, como lo son:
-- 🤖 Inteligencia artificial
-- 🥽 Realidad virtual/aumentada
-- ☁️ Computación en la nube
