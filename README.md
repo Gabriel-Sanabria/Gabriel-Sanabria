@@ -2,21 +2,15 @@
 
 Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animación digital; actualmente me encuentro en proceso de aprendizaje para convertirme en desarrollador de software profesional.
 
-### Las tecnologías y lenguajes que he utilizado son:
+### Los lenguajes y tecnologías con los que he trabajado son:
 
 <div name="Insignias" style="display: flex; flex-wrap: wrap; max-width: 600px;">
-
-  <img align="left" src="https://img.shields.io/badge/-.NET-800080?style=flat-square&logo=.net&logoColor=white" alt=".NET">
-  
-  <img align="left" src="https://img.shields.io/badge/-Xamarin-54C1B8?style=flat-square&logo=xamarin&logoColor=white" alt="Xamarin">
   
   <img align="left" src="https://img.shields.io/badge/-C%23-008B8B?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
   
   <img align="left" src="https://img.shields.io/badge/-XAML-0072C6?style=flat-square&logo=xaml&logoColor=white" alt="XAML">
   
   <img align="left" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL">
-  
-  <img align="left" src="https://img.shields.io/badge/-WinAPI-0052CC?style=flat-square&logo=windows&logoColor=white" alt="WinAPI">
   
   <img align="left" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c-plus-plus&logoColor=white" alt="C++">
   
@@ -33,6 +27,12 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   <img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=%232c3e50" alt="JavaScript">
 
   <br>
+
+  <img align="left" src="https://img.shields.io/badge/-.NET-800080?style=flat-square&logo=.net&logoColor=white" alt=".NET">
+  
+  <img align="left" src="https://img.shields.io/badge/-Xamarin-54C1B8?style=flat-square&logo=xamarin&logoColor=white" alt="Xamarin">
+
+  <img align="left" src="https://img.shields.io/badge/-WinAPI-0052CC?style=flat-square&logo=windows&logoColor=white" alt="WinAPI">
 
   <img align="left" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
   
