@@ -2,15 +2,13 @@
 
 Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animación digital; actualmente me encuentro en proceso de aprendizaje para convertirme en desarrollador de software profesional.
 
-### Los lenguajes y tecnologías con los que he trabajado son:
+### Los lenguajes en los que he programado son:
 
 <div name="Insignias" style="display: flex; flex-wrap: wrap; max-width: 600px;">
   
   <img align="left" src="https://img.shields.io/badge/-C%23-008B8B?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
   
   <img align="left" src="https://img.shields.io/badge/-XAML-0072C6?style=flat-square&logo=xaml&logoColor=white" alt="XAML">
-  
-  <img align="left" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL">
   
   <img align="left" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c-plus-plus&logoColor=white" alt="C++">
   
@@ -19,6 +17,8 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   <img align="left" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 
   <img align="left" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=306998" alt="Python">
+
+  <img align="left" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL">
   
   <img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
     
@@ -26,7 +26,11 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   
   <img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=%232c3e50" alt="JavaScript">
 
-  <br>
+</div>
+
+### Las tecnologías con las que he trabajado incluyen:
+
+<div name="Insignias" style="display: flex; flex-wrap: wrap; max-width: 600px;">
 
   <img align="left" src="https://img.shields.io/badge/-.NET-800080?style=flat-square&logo=.net&logoColor=white" alt=".NET">
   
