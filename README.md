@@ -24,7 +24,7 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 
   <img align="left" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 
-  <img align="left" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=blue" alt="Python">
+  <img align="left" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=black" alt="Python">
   
   <img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
     
