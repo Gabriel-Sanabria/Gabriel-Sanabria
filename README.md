@@ -28,6 +28,8 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
 
 </div>
 
+<br>
+
 ### Las tecnologías con las que he trabajado incluyen:
 
 <div name="Insignias" style="display: flex; flex-wrap: wrap; max-width: 600px;">
@@ -51,6 +53,8 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   <img align="left" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
 
 </div>
+
+<br>
 
 ### Los proyectos que he desarrollado incluyen:
 - 🖥️ Aplicaciones de escritorio
