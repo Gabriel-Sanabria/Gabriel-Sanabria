@@ -54,6 +54,8 @@ Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animac
   
   <img align="left" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
 
+  <img align="left" src="https://img.shields.io/badge/-Pygame-3776AB?style=flat-square&logo=python&logoColor=white" alt="Pygame">
+
 </div>
 
 <br>
