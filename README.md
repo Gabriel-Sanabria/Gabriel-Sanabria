@@ -1,6 +1,6 @@
 # Me presento 🤝
 
-Mi nombre es **Gabriel** y soy estudiante del área de la multimedia y la animación digital; actualmente me encuentro en proceso de aprendizaje para convertirme en un profesional de la tecnología.
+Mi nombre es **Gabriel** y soy estudiante de multimedia y animación digital; actualmente me encuentro en proceso de aprendizaje para convertirme en un profesional de la tecnología.
 
 ### Los lenguajes he utilizado son:
 
