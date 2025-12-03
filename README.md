@@ -1,6 +1,6 @@
 # Me presento 🤝
 
-Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animación Digital; interesado en crear productos digitales creativos y funcionales, y apasionado por seguir aprendiendo en el mundo de la tecnología.
+Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animación Digital; interesado en crear productos digitales creativos y funcionales, y seguir aprendiendo acerca del mundo de la tecnología.
 
 ### Los lenguajes he utilizado son:
 
