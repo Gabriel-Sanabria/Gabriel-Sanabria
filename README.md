@@ -1,6 +1,6 @@
 # Me presento 🤝
 
-Mi nombre es **Gabriel** y soy estudiante de multimedia y animación digital; actualmente me encuentro en proceso de aprendizaje para convertirme en un profesional de la tecnología.
+Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animación Digital. Interesado en crear productos digitales creativos y funcionales, y seguir aprendiendo en el mundo de la tecnología.
 
 ### Los lenguajes he utilizado son:
 
