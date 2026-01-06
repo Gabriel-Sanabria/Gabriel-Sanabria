@@ -16,5 +16,5 @@ Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animac
 ### He desarrollado proyectos como:
 - 📱 Aplicaciones móviles
 - 🌐 Aplicaciones web
-- - 🖥️ Aplicaciones de escritorio
+- 🖥️ Aplicaciones de escritorio
 - 🎮 Videojuegos
