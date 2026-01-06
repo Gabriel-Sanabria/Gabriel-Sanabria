@@ -1,7 +1,8 @@
 # Sobre mí 👨‍💻
 
-Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animación Digital, especializado en desarrollo con .NET.
-me apasiona crear productos de software donde pueda combinar lógica y creatividad, y estoy siempre abierto a seguir aprendiendo sobre el mundo de la tecnología.
+Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animación Digital, especializado en desarrollo con .NET. 
+
+Me apasiona crear productos de software donde pueda combinar lógica y creatividad, y estoy siempre abierto a seguir aprendiendo sobre el mundo de la tecnología.
 
 ### Lenguajes que he utilizado:
 | C# | SQL | HTML5 | CSS3 | JavaScript | XAML | C++ | Java | Python | PHP |
