@@ -14,7 +14,7 @@ Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animac
 | ![.NET](https://img.shields.io/badge/-.NET-800080?style=flat-square&logo=.net&logoColor=white) | ![Xamarin](https://img.shields.io/badge/-Xamarin-54C1B8?style=flat-square&logo=xamarin&logoColor=white) | ![WinAPI](https://img.shields.io/badge/-WinAPI-0052CC?style=flat-square&logo=windows&logoColor=white) | ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white) | ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white) | ![OpenGL](https://img.shields.io/badge/-OpenGL-339933?style=flat-square&logo=OpenGL&logoColor=white) | ![DirectX](https://img.shields.io/badge/-DirectX-0078D6?style=flat-square&logo=microsoft&logoColor=white) | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ### He desarrollado proyectos como:
-- 📱 Aplicaciones móviles
 - 🌐 Aplicaciones web
+- 📱 Aplicaciones móviles
 - 🖥️ Aplicaciones de escritorio
 - 🎮 Videojuegos
