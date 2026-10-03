@@ -2,7 +2,9 @@
 
 Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animación Digital. 
 
-Me apasiona crear y explorar el mundo de la tecnología, y el desarrollo de software es la forma en que doy vida a mis ideas. Uso este espacio para guardar y compartir proyectos en los que he trabajado, así como para experimentar y poner a prueba nuevas ideas.
+Me apasiona el mundo de la tecnología y contribuir a ella creando software. 
+
+Uso este espacio para guardar y compartir proyectos en los que he trabajado, así como para experimentar y poner a prueba nuevas ideas.
 
 ### Lenguajes que he utilizado:
 | C# | SQL | HTML5 | CSS3 | JavaScript | TypeScript | XAML | C++ | Java | Python | PHP |
