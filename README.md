@@ -1,8 +1,6 @@
 # Sobre mí 👨‍💻
 
-Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animación Digital. 
-
-Me apasiona el mundo de la tecnología y contribuir a ella creando software. 
+Soy **Gabriel**, desarrollador de software con formación en Multimedia y Animación Digital. Me apasiona el mundo de la tecnología y contribuir a ella creando software. 
 
 Uso este espacio para guardar y compartir proyectos en los que he trabajado, así como para experimentar y poner a prueba nuevas ideas.
 
